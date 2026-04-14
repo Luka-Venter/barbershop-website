@@ -1,7 +1,0 @@
-# Exclude VS Code extensions and config
-extensions/
-argv.json
-
-# OS files
-.DS_Store
-Thumbs.db
